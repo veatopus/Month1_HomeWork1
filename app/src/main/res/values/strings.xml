@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Month1_HomeWork1</string>
+    <string name="Booking_details">Booking details</string>
+    <string name="waroeng_down_normal">WAROENG DOWN\nNORMAL</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="_06_may_1pm">06 May 1PM</string>
+    <string name="jumlah_kursi">Jumlah kursi</string>
+    <string name="_25_kursi">25 Kursi</string>
+    <string name="manue_package">Manue package</string>
+    <string name="chicken_geprek">CHICKEN GEPREK</string>
+    <string name="_2_pieces">2 Pieces</string>
+    <string name="dvoetocchie">:</string>
+    <string name="todo">TODO</string>
+    <string name="price">Price</string>
+    <string name="_2x_chicken_geprek">2x CHICKEN GEPREK</string>
+    <string name="_41_00">$ 41,00</string>
+    <string name="people_present">People present</string>
+    <string name="_20">+20</string>
+</resources>
